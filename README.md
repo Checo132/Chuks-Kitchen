@@ -54,10 +54,10 @@ These assumptions keep implementation focused on backend logic demonstration.
 
 If the platform scales from hundreds to thousands of users:
 
-* A production-grade relational database (e.g., PostgreSQL) would replace in-memory storage
-* Caching (Redis) could improve food menu performance
-* Microservices could separate user, food, and order modules
-* Load balancing and containerization (Docker/Kubernetes) would enhance reliability
+* A production-grade relational database (e.g., PostgreSQL) would replace in-memory storage.
+* Caching (Redis) could improve food menu performance.
+* Microservices could separate user, food, and order modules.
+* Load balancing and containerization (Docker/Kubernetes) would enhance reliability.
 
 ---
 
