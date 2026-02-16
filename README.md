@@ -52,7 +52,7 @@ These assumptions keep implementation focused on backend logic demonstration.
 
 ### Scalability Considerations
 
-If the platform scales from hundreds to thousands of users:
+If the platform scales from hundreds to ten thousands of users:
 
 * A production-grade relational database (e.g., PostgreSQL) would replace in-memory storage.
 * Caching (Redis) could improve food menu performance.
